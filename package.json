@@ -1,0 +1,14 @@
+{
+  "name": "goit-js-hw-08_1",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Mariusz Gebel\"",
+  "license": "ISC",
+  "dependencies": {
+    "simplelightbox": "^2.10.2"
+  }
+}
